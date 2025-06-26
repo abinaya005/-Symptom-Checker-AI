@@ -1,4 +1,5 @@
  Symptom Checker AI – An NLP-Based Health Assistant (DSML Project):
+
 A data science and machine learning mini-project that leverages **transformer-based NLP models** to answer symptom-related medical questions. Designed for offline use, this AI assistant demonstrates real-world application of **natural language understanding (NLU)** using **pretrained ML models** — no API key or cloud cost required.
 
 Project Goal:
